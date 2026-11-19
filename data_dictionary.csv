@@ -1,0 +1,39 @@
+﻿column,description,response_options_or_values
+case_id,"original participant number from the survey export (gaps = records excluded from the analyses, see README)","integer (1-407, 397 retained)"
+Q1,Anthropomorphism item 1 (language human-like),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q2,Anthropomorphism item 2 (emotions),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q3,Anthropomorphism item 3 (interaction feels human),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q4,Anthropomorphism item 4 (appearance/avatar),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q5,Anthropomorphism item 5 (social awareness),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q6,Anthropomorphism item 6 (felt understood),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q7,Uncanny-valley item 1 (unease),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q8,Uncanny-valley item 2 (eerie),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q9,Uncanny-valley item 3 (creepy),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q10,Uncanny-valley item 4 (unnatural details),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q11,Uncanny-valley item 5 (uncanny-valley feeling),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q12,Uncanny-valley item 6 (repulsion),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q13,Psychological reactance item 1 (perceived manipulation),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q14,Reactance item 2 (autonomy threat),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q15,Reactance item 3 (inner opposition),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q16,Reactance item 4 (urge to counteract),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q17,Reactance item 5 (felt offended),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q18,Reactance item 6 (do the opposite),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q19,Avoidance intention item 1 (avoid in future),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q20,Avoidance item 2 (prefer human queue),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q21,Avoidance item 3 (switch provider),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q22,Avoidance item 4 (no recommendation),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q23,Avoidance item 5 (general avoidance tendency),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q24,Avoidance item 6 (choose non-AI channel),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q25,Attention check (instructed response; correct = 非常同意),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q26,Attention check (scenario comprehension; correct = A. 商品质量问题┋C. 价格争议),multiple choice (A-G)
+Q27,Stimulus check 1 (agent displayed high human-like characteristics),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q28,Stimulus check 2 (agent clearly different from a real human),非常不同意(1) / 有点不同意(2) / 不同意(3) / 一般(4) / 有点同意(5) / 同意(6) / 非常同意(7)  [strongly disagree(1) ... strongly agree(7)]
+Q29,Gender,A. 男(male) / B. 女(female) / C. 不愿透露(undisclosed)
+Q30,Age band,A. 18岁以下(under 18) / B. 18-25岁 / C. 26-30岁 / D. 31-40岁 / E. 41-50岁 / F. 50岁以上(over 50)
+Q31,Education,A. 高中及以下(high school or below) / B. 大专(junior college) / C. 本科(bachelor) / D. 硕士(master) / E. 博士(PhD)
+Q32,Monthly disposable income (CNY),A. 2000以下 / B. 2000-5000 / C. 5001-10000 / D. 10001-20000 / E. 20000以上
+Q33,Monthly online customer-service usage,A. 几乎没有(almost never) / B. 1-2次 / C. 3-5次 / D. 6-10次 / E. 10次以上
+Q34,Prior experience with AI customer service,A. 是(yes) / B. 否(no) / C. 不确定(uncertain)
+Q35,Prior familiarity with the uncanny-valley concept,A. 非常了解 / B. 有所了解 / C. 不太了解 / D. 完全不了解
+Q36,Most common online-service scenarios (multiple choice),A. 电商购物 / B. 银行金融 / C. 电信运营商 / D. 政府部门 / E. 出行旅游 / F. 医疗健康 / G. 其他
+Q37,Open comment on AI-customer-service anthropomorphism (optional),free text
